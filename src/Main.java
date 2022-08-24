@@ -5,7 +5,7 @@ public class Main {
             System.out.println("Установите версию приложения для iOS по ссылке");
 
         } else if (clientOS==1){
-            System.out.println("становите версию приложения для Android по ссылке");
+            System.out.println("Установите версию приложения для Android по ссылке");
         }
     }
 }
